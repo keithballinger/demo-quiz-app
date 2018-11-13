@@ -2,4 +2,4 @@
 source "https://rubygems.org"
 
 # gem "rails"
-gem 'calabash-cucumber'
+gem 'calabash-cucumber', '>= 0.20.0'
